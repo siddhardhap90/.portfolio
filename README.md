@@ -1,7 +1,8 @@
 # Data Scientist
 
 ### Education
-Physics, BSc, MSc(research)
+- MSc. Physics Research Paper | University of Waterloo(June 2023)
+- BSc Hons. Physics with Astrophysics | University of Kent(June 2020)
 
 ### Work Experience
 
